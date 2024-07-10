@@ -1,1 +1,2 @@
-# Rest-Countries-Table
+# Instalation
+`pip install -r requirements.txt`
